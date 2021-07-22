@@ -1,0 +1,7 @@
+Library/
+[Oo]bj/
+[Tt]emp/
+Logs/
+.vscode/
+*.swp
+*.swo

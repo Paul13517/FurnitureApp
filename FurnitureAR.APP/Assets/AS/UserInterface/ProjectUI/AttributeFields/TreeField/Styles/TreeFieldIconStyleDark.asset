@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4bf004213b37a043a5b92b64d9035c2, type: 3}
+  m_Name: TreeFieldIconStyleDark
+  m_EditorClassIdentifier: 
+  ParentStyle: {fileID: 11400000, guid: 54329e8800fd3b24ca2e40e2c728342b, type: 2}
+  Color:
+    _value: {r: 1, g: 1, b: 1, a: 1}
+    UseParent: 1
+  Radius:
+    _value: 0
+    UseParent: 1
+  Smoothness:
+    _value: 0.1
+    UseParent: 1
